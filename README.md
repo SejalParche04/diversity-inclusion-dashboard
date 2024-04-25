@@ -3,3 +3,4 @@ The Diversity and Inclusion dashboard is a comprehensive tool that provides an o
 
 ### Dashboard link: https://project.novypro.com/aftuJ2
 ![Screenshot 2024-04-11 150126](https://github.com/SejalParche04/diversity-inclusion-dashboard/assets/152018025/ab859c23-8909-436e-91b2-57b62fa5dca1)
+
